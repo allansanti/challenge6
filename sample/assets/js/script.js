@@ -1,4 +1,4 @@
-var apiKey="43307f36c133c1b4d80feb3644b2ab3e"
+var apiKey="1c08c5a4ed0fdea935b001148c42d1f2"
 var titleEl=document.getElementById("title")
 var tempEl=document.getElementById("temp")
 var windEl=document.getElementById("wind")
